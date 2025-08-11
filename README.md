@@ -1,4 +1,4 @@
-# 🏭 BYCOZ - Depolar Arası Sevk Yönetim Sistemi
+# 🏭 Depolar Arası Sevk Yönetim Sistemi
 
 <div align="center">
 
