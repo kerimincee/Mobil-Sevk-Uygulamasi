@@ -69,7 +69,7 @@
 
 1. **Projeyi Klonlayın**
    ```bash
-   git clone https://github.com/kullaniciadi/bycoz.git
+   git clone https://github.com/kerimincee/Mobil-Sevk-Uygulamasi
    cd bycoz
    ```
 
@@ -227,10 +227,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **Email**: [email@example.com]
-- **GitHub**: [@kullaniciadi]
-
+- **Geliştirici**: [Kerim Ince]
+- **Email**: [incekerim49@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/kerim-ince/]
+- **GitHub**: [https://github.com/kerimincee]
 ---
 
 <div align="center">
